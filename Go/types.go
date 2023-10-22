@@ -1,6 +1,6 @@
 package av
 
-import "github.com/yanis-fourel/go-avial/hgtp"
+import "github.com/yanis-fourel/go-avial/Go/hgtp"
 
 type Command = hgtp.Command
 type Report = hgtp.Report
