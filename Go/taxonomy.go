@@ -3,7 +3,7 @@ package av
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/yanis-fourel/go-avial/Go/hgtp"
+	"github.com/yanis-fourel/go-avial/hgtp"
 )
 
 type Parameter hgtp.Parameter
