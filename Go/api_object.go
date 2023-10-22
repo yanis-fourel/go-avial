@@ -2,7 +2,7 @@ package av
 
 import (
 	"encoding/json"
-	"github.com/yanis-fourel/go-avial/hgtp"
+	"github.com/yanis-fourel/go-avial/Go/hgtp"
 )
 
 func CreateObject(args ArgsCreateObject) (Entity, error) {

@@ -1,7 +1,7 @@
 package av
 
 import (
-	"github.com/yanis-fourel/go-avial/hgtp"
+	"github.com/yanis-fourel/go-avial/Go/hgtp"
 	"time"
 )
 
