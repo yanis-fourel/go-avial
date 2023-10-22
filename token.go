@@ -1,6 +1,6 @@
 package av
 
-import "github.com/yanis-fourel/go-avial/Go/hgtp"
+import "github.com/yanis-fourel/go-avial/hgtp"
 
 type Token = hgtp.Token
 

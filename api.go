@@ -2,7 +2,7 @@ package av
 
 import (
 	"errors"
-	"github.com/yanis-fourel/go-avial/Go/hgtp"
+	"github.com/yanis-fourel/go-avial/hgtp"
 )
 
 var gClient *hgtp.Client

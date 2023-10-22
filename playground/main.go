@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/yanis-fourel/go-avial/Go"
+	"github.com/yanis-fourel/go-avial"
 	"log"
 	"os"
 )

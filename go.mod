@@ -1,4 +1,4 @@
-module github.com/yanis-fourel/go-avial/Go
+module github.com/yanis-fourel/go-avial
 
 go 1.19
 

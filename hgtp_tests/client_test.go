@@ -2,8 +2,8 @@ package hgtp
 
 import (
 	"fmt"
-	"github.com/yanis-fourel/go-avial/Go"
-	"github.com/yanis-fourel/go-avial/Go/hgtp"
+	"github.com/yanis-fourel/go-avial"
+	"github.com/yanis-fourel/go-avial/hgtp"
 	"log"
 	"os"
 	"testing"
